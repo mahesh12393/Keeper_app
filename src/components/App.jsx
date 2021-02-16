@@ -1,10 +1,14 @@
 import React from "react";
 import Heading from "./Heading.jsx";
-import Footer from "./Footer.jsx"
-function App(){
-    return <div>
-   <Heading></Heading>
-   <Footer></Footer>
+import Footer from "./Footer.jsx";
+import Note from "./Note.jsx";
+function App() {
+  return (
+    <div>
+      <Heading></Heading>
+      <Footer></Footer>
+      <Note></Note>
     </div>
+  );
 }
-export default App
+export default App;
