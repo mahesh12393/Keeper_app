@@ -1,2 +1,2 @@
 # Keeper_app
-Created with CodeSandbox
+An app where you can add important notes 
